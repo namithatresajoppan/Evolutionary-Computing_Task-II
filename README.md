@@ -1,2 +1,2 @@
 # Evolutionary-Computing_Task-II
-Training a generalist agent against multiple enemies using NEAT
+Training a generalist agent against multiple enemies in the game EvoMan using NEAT. The dependencies and all the other files in the evoman folder have to retained as such. A new generalist agent is trained using the evolutionary algorithm NeuroEvolution of Augmenting Topologies (NEAT). In this project python package NEAT is used. There are 8 eneimes the agent have to win against. In this code the agent is trained against enemies named, 'Flashman, Airman, Metalman, Quickman,Woodman and Heatman' numbered respectively as 1,2,3,4,5 and 8.
